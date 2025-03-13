@@ -20,4 +20,9 @@ LeetCode 문제 풀이 모음
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
