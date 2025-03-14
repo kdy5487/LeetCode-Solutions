@@ -7,7 +7,7 @@ class Solution {
     for(int i = 1; i < nums.length; i++)
     {
         if(nums[i] == nums[j-1]){//같으면 j안바뀌고 순회하면서 계속 비교
-            continue;
+            
         } 
         else{
             nums[j] = nums[i]; //다르면 기준점 이동.
