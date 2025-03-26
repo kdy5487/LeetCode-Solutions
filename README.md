@@ -11,6 +11,7 @@ LeetCode 문제 풀이 모음
 | [0027-remove-element](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ LeetCode 문제 풀이 모음
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
