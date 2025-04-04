@@ -20,6 +20,7 @@ LeetCode 문제 풀이 모음
 | [0013-roman-to-integer](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ LeetCode 문제 풀이 모음
 | [0058-length-of-last-word](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -53,6 +55,7 @@ LeetCode 문제 풀이 모음
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
