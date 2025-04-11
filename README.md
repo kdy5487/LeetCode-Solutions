@@ -35,6 +35,7 @@ LeetCode 문제 풀이 모음
 | [0125-valid-palindrome](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@ LeetCode 문제 풀이 모음
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
