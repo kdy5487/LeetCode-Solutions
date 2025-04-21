@@ -13,6 +13,7 @@ LeetCode 문제 풀이 모음
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0724-find-pivot-index](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,8 @@ LeetCode 문제 풀이 모음
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
