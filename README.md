@@ -14,6 +14,7 @@ LeetCode 문제 풀이 모음
 | [0136-single-number](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ LeetCode 문제 풀이 모음
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
