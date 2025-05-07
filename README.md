@@ -15,6 +15,7 @@ LeetCode 문제 풀이 모음
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/kdy5487/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ LeetCode 문제 풀이 모음
 | [0205-isomorphic-strings](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kdy5487/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/kdy5487/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
